@@ -3,7 +3,7 @@
 <h3>Description :</h3> 
 A static task manager page using tailwind css.
 
-👉[Click here](https://avinash905.github.io/TaskTender) to check out the form.
+👉[Click here](https://avinash905.github.io/TaskTender) to check out the website.
 <br/>
 
 <hr/>
